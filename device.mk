@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-#-include device/xiaomi/olive/system_prop.mk
+# include device/xiaomi/olive/system_prop.mk
 
 # Screen density
 PRODUCT_AAPT_CONFIG := normal
